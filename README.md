@@ -28,7 +28,7 @@ wybranych metod
 3. Ostateczne wyniki i najważniejsze wnioski proszę przedstawić w formie prezentacji (np.
 Google slides)
 
-###Jak obliczyć liquidity:
+### Jak obliczyć liquidity:
 Liquidity rozumiane będzie jako % ogłoszeń, które otrzymały co najmniej 1 odpowiedź
 (telefoniczną lub mailową) w okresie 7 dni (wliczamy w to także dzień 0 - dzień dodania
 ogłoszenia)
