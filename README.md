@@ -34,7 +34,7 @@ Liquidity rozumiane będzie jako % ogłoszeń, które otrzymały co najmniej 1 o
 ogłoszenia)
 
 ### Przykład:
-Użytkownik dodał 1 kwietnia do serwisu 10 ogłoszeńW dniach od 1 do 7 kwietnia otrzymał odpowiedzi na 6 ogłoszeń.
+Użytkownik dodał 1 kwietnia do serwisu 10 ogłoszeń w dniach od 1 do 7 kwietnia otrzymał odpowiedzi na 6 ogłoszeń.
 W dniu 2 kwietnia dodał kolejne 5 ogłoszeń i otrzymał odpowiedzi na wszystkie z nich w czasie
 7 dni od pojawienia się tych ofert w serwisie
 Liquidity wynosi (6+5)/(10+5) = 73%
@@ -65,4 +65,4 @@ Nazwy kolumn dla data_segmentation
 
 Nazwy kolumn dla data_categories
 ● category_id
-● category_nam
+● category_name

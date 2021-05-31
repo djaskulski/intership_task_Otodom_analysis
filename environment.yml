@@ -1,0 +1,16 @@
+name: olx_otodom
+channels:
+ - conda-forge
+ - defaults
+ - anaconda
+dependencies:
+ - python == 3.8.5
+ - jupyterlab
+ - ipykernel
+ - nb_conda_kernels
+ - numpy
+ - pandas
+ - seaborn
+ - matplotlib
+ - sqlalchemy
+ - pip
