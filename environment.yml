@@ -10,8 +10,7 @@ dependencies:
  - nb_conda_kernels
  - numpy
  - pandas
- - scikit-learn
  - seaborn
  - matplotlib
- - sqlalchemy
+ - scikit-learn
  - pip
